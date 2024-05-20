@@ -5,10 +5,14 @@
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/hello/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/penguins/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/intro-to-numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/non-base2-numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/try-into/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/variables/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/penguins/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/intro-to-numbers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/non-base2-numbers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/try-into/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/variables/target" />
     </content>
     <orderEntry type="inheritedJdk" />
