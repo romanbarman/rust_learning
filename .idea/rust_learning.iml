@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/increase-counter-test/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/intro-pointers/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/match-needles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/needle-in-haystack/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/penguins/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/add-floats/target" />
@@ -22,6 +23,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/increase-counter-test/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/intro-pointers/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/match-needles/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/needle-in-haystack/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
