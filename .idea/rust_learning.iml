@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/mandelbrot/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/match-needles/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/needle-in-haystack/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/grep-lite/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/intro-to-generic-func/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/lifetime-annotation/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/hello/target" />
@@ -28,6 +29,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/mandelbrot/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/match-needles/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/needle-in-haystack/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/grep-lite/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/intro-to-generic-func/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/lifetime-annotation/target" />
     </content>
