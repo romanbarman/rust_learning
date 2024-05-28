@@ -19,6 +19,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/intro-to-generic-func/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/lifetime-annotation/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/intro-to-file/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/not-quite-file/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/penguins/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/add-floats/target" />
@@ -36,6 +37,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/intro-to-generic-func/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/lifetime-annotation/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/intro-to-file/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/not-quite-file/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
