@@ -23,6 +23,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/not-quite-file/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/intro-to-global-var/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/log-analyzer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rust_in_action/satellites/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/penguins/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/add-floats/target" />
@@ -44,6 +45,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/not-quite-file/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/intro-to-global-var/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/log-analyzer/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/rust_in_action/satellites/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
