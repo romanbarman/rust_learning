@@ -1,6 +1,7 @@
-#![allow(dead_code)]
+//! Simulating files one step at the time
+
 use std::fmt;
-use std::fmt::{Display, Formatter, write};
+use std::fmt::{Display, Formatter};
 
 #[derive(Debug, PartialEq)]
 enum FileState {
@@ -17,6 +18,8 @@ impl Display for FileState {
     }
 }
 
+/// Represents a "file",
+/// which probably lives on a file system.
 #[derive(Debug)]
 struct File {
     name: String,
@@ -31,6 +34,7 @@ impl Display for File {
 }
 
 impl File {
+    /// New files are assumed to be empty, but a name is required. 
     fn new(name: &str) -> File {
         File {
             name: String::from(name),
